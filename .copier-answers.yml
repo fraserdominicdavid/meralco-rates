@@ -1,0 +1,13 @@
+_commit: v1.5.1
+_src_path: gh:superlinear-ai/substrate
+author_email: 77269589+fraserdominicdavid@users.noreply.github.com
+author_name: Fraser Dominic David
+project_description: A Python package for extracting and processing Meralco residential
+    electricity rate schedules, and calculating estimated rates based on consumption.
+project_name: meralco-rates
+project_type: package
+project_url: https://github.com/fraserdominicdavid/meralco-rates
+python_version: '3.13'
+typing: optional
+with_conventional_commits: true
+with_typer_cli: false
